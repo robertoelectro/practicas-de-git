@@ -1,4 +1,10 @@
 ## Curso Git desde cero
+
+### Zonas de Git
+1. Directorio de trabajo
+2. Área de preparación
+3. Directorio Git
+
 ### Url diarios de vampiros
 1.https://cine24h.net/season/cronicas-vampiricas-3/
 2.https://cine24h.net/season/cronicas-vampiricas-5/
