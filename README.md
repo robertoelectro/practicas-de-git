@@ -16,3 +16,4 @@ Sistema de control de versiones parael mantenimiento eficiente y confiable de ar
 Las sesiones son un mecanismo para almacenar información en el servidor que permanecerá entre un acceso y otro.
 Al conectarse un usuario se le asigna un identificador de sesión con el que se asociará la información.
 ```
+Esta linea fue creada en la rama master
