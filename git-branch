@@ -1,2 +1,7 @@
 ### git branch
 Una rama en Git es simplemente un apuntador móvil apuntando a una de las confirmaciones
+### git branch --no-merged
+Nos dice cuáles ramas no han sido fusionadas ala rama actual.
+
+### git branch --merged
+Nos muestra las ramas que ha sido fucionadas a la rama actual.
