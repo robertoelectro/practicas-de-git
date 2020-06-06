@@ -1,5 +1,5 @@
 ### git log
-Muestra el hitorial de commits
+Muestra todo  el hitorial de commits del proyecto
  git log --pretty=format:"%h - %an, %ar : %s"
  Muestra el historial con el formato que le indicamos.
 
